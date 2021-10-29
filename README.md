@@ -1,4 +1,5 @@
-# Thinkful-Craiglist-Clone
+# [Thinkful-Craiglist-Clone](https://www.thinkful.com/learn/ruby-on-rails-tutorial/Rails)
+<br/>
 
 # How to Learn Ruby on Rails
 
