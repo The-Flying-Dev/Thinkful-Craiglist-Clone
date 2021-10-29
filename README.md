@@ -1,6 +1,10 @@
 # [Thinkful-Craiglist-Clone](https://www.thinkful.com/learn/ruby-on-rails-tutorial/Rails)
 <br/>
 
+*Got to learn how to configure and get up and running with an older version of rails 
+
+<br/>
+
 # How to Learn Ruby on Rails
 
 ## Intro
